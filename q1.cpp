@@ -1,11 +1,11 @@
-1. Lista Encadeada Simples
-Implemente uma lista encadeada simples em C++ contendo as operações
-básicas:
-• Inserir um elemento no início.
-• Inserir um elemento no final.
-• Remover um elemento específico da lista.
-• Buscar um elemento na lista.
-• Exibir os elementos da lista.
+//1. Lista Encadeada Simples
+//Implemente uma lista encadeada simples em C++ contendo as operações
+//básicas:
+//• Inserir um elemento no início.
+//• Inserir um elemento no final.
+//• Remover um elemento específico da lista.
+//• Buscar um elemento na lista.
+//• Exibir os elementos da lista.
 
 #include <iostream>
 

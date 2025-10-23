@@ -1,8 +1,8 @@
-6. Pilha - Inversão de String
-Utilizando a estrutura de pilha, implemente um programa que receba uma string e
-a inverta. Exemplo:
-Entrada: "Estrutura"
-Saída: "aruturtsE"
+//6. Pilha - Inversão de String
+//Utilizando a estrutura de pilha, implemente um programa que receba uma string e
+//a inverta. Exemplo:
+//Entrada: "Estrutura"
+//Saída: "aruturtsE"
 
 #include <iostream>
 #include <cstring>

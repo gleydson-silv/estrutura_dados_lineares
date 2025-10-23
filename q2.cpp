@@ -1,6 +1,6 @@
-2. Lista Encadeada - Remoção de Duplicatas
-Dada uma lista encadeada simples, escreva um algoritmo que remova todos os
-elementos duplicados, garantindo que cada valor apareça apenas uma vez.
+//2. Lista Encadeada - Remoção de Duplicatas
+//Dada uma lista encadeada simples, escreva um algoritmo que remova todos os
+//elementos duplicados, garantindo que cada valor apareça apenas uma vez.
 
 #include <iostream>
 

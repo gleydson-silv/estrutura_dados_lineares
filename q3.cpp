@@ -1,7 +1,7 @@
-Lista Duplamente Encadeada - Inserção Ordenada
-Implemente uma lista duplamente encadeada onde os elementos são inseridos
-de forma ordenada. O usuário deve inserir um número e o programa deve
-posicioná-lo no local correto para manter a ordem crescente.
+//Lista Duplamente Encadeada - Inserção Ordenada
+//Implemente uma lista duplamente encadeada onde os elementos são inseridos
+//de forma ordenada. O usuário deve inserir um número e o programa deve
+//posicioná-lo no local correto para manter a ordem crescente.
 
 #include <iostream>
 

@@ -1,6 +1,6 @@
-4. Lista Duplamente Encadeada - Remoção
-Dada uma lista duplamente encadeada, implemente uma função para remover
-um nó específico e ajustar os ponteiros dos nós vizinhos corretamente.
+//4. Lista Duplamente Encadeada - Remoção
+//Dada uma lista duplamente encadeada, implemente uma função para remover
+//um nó específico e ajustar os ponteiros dos nós vizinhos corretamente.
 
 #include <iostream>
 
