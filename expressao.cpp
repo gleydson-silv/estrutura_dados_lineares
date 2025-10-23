@@ -1,3 +1,9 @@
+Pilha - Verificação de Expressão Matemática
+Escreva um algoritmo que utilize pilhas para verificar se uma expressão
+matemática possui parênteses balanceados. Exemplo:
+• Entrada: "((2+3) * (5/2))" Válido
+• Entrada: "((2+3) * (5/2)" Inválido
+
 #include <iostream>
 
 using namespace std;
